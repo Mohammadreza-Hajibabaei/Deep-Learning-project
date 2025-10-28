@@ -141,5 +141,5 @@ In short:
 
 ## 👩‍💻 Contributors
 Developed as part of the **Deep Learning Course (Spring 2025)**  
-**Instructor:** Dr. Bajand  
-**Student:** [Your Full Name]
+**Instructor:** Dr. Bejani  
+**Student:** Mohammadreza Hajibabaei
