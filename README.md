@@ -117,7 +117,7 @@ This script measures how well the model identifies the target word through reaso
    ```bash
    python app.py
    ```
-4. (Optional) Launch the GUI:
+4. Launch the GUI:
    ```bash
    streamlit run app.py
    # or
